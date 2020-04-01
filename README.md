@@ -2,7 +2,7 @@
 Gulzina Mamytova
 ![GitHub Logo](image.png)
 
-##About Me
+## About Me
 My name is Gulzina.
 
 I am developing a user interface in a browser. My main task is to ensure maximum user interaction with the site or web application.
@@ -13,7 +13,7 @@ I am developing a user interface in a browser. My main task is to ensure maximum
 *Email*| sweetyzina00@gmail.com
 *Phone*| +996505233112
 
-##Skills
+## Skills
 * Experience with HTML5, CSS3, JS;
 * Knowledge of JavaScript / jQuery;
 * Adaptive layout experience;
@@ -25,7 +25,7 @@ I am developing a user interface in a browser. My main task is to ensure maximum
 * knowledge of cross-browser layout;
 * PhotoShop knowledge;
 
-##Code examples 
+## Code examples 
 ```html
 <header>
     <div class="container top-header">
@@ -43,13 +43,13 @@ I am developing a user interface in a browser. My main task is to ensure maximum
     </div>
 </header>
 ```
-##Experience
+## Experience
 I worked as a web programmer at Accenture. It is a global management consultancy firm which provides professional services like strategy, consulting, technology and operations services.
 
-##Education
+## Education
 I studied at IT lyceum, also took courses at Udemy and IT-run.
 
-##My English
+## My English
 
 I'm not afraid to speak English, build simple language constructs. The vocabulary is small, but sufficient to explain in a simple way. I can read and understand the documentation
 
